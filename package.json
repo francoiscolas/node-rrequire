@@ -1,0 +1,17 @@
+{
+    "name"       : "rrequire",
+    "version"    : "0.1.0",
+    "author"     : "François Colas <francoiscolas@gmail.com>",
+    "description": "Recursive require() function for Node.",
+    "keywords"   : ["require", "recursive", "directory"],
+
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/francoiscolas/node-rrequire.git"
+    },
+
+    "engines": {
+        "node": ">= 0.8.0"
+    }
+}
+
